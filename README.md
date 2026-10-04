@@ -1,5 +1,7 @@
 # Amazon Review Scraper
 
+Built by [Talha Pythoneer](https://www.talhapythoneer.com), web scraping and AI agents.
+
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill that scrapes Amazon product reviews via woot.com's public AJAX API.
 
 **No API key. No login. No browser automation. Pure Python 3 stdlib.**
